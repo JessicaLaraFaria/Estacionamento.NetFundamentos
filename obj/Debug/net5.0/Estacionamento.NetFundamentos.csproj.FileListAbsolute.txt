@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\Estacionamento.NetFundamentos.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\Estacionamento.NetFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\Estacionamento.NetFundamentos.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\Estacionamento.NetFundamentos.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\Estacionamento.NetFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\bin\Debug\net5.0\Estacionamento.NetFundamentos.exe
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\bin\Debug\net5.0\Estacionamento.NetFundamentos.deps.json
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\bin\Debug\net5.0\Estacionamento.NetFundamentos.runtimeconfig.json
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\bin\Debug\net5.0\Estacionamento.NetFundamentos.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\bin\Debug\net5.0\Estacionamento.NetFundamentos.dll
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\bin\Debug\net5.0\Estacionamento.NetFundamentos.pdb
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\Estacionamento.NetFundamentos.dll
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\refint\Estacionamento.NetFundamentos.dll
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\Estacionamento.NetFundamentos.pdb
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\Estacionamento.NetFundamentos.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Estacionamento.NetFundamentos\obj\Debug\net5.0\ref\Estacionamento.NetFundamentos.dll
